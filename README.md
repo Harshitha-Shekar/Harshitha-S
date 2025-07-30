@@ -28,9 +28,10 @@ Hi! I'm **Harshitha**, a curious mind who believes in the magic of turning raw d
 ---
 
 🤝 Always up for collaborations, internships, and exciting AI-driven projects!
+
 ## 📫 Let's Connect on: 
 
-- ✉️ [Email] : harshitha.shekar2502@gmail.com
+- ✉️ [Email] : harshitha.shekar2502@gmail.com, harshitha.s@msds.christuniversity.in
 - 💼 [LinkedIn] : https://www.linkedin.com/in/harshitha-s25/
   
 ---
